@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World I'm Riznee MF – a passionate Data Science undergraduate at SLTC Research University<br><br>🚀 Exploring: Machine Learning, Deep Learning, & AI-driven real-world solutions <br><br>📚  Learning: TensorFlow, Keras, Advanced ML techniques & Data Science workflows <br><br>🎯 Goal: To become an impactful AI/ML Engineer <br><br>🌍 Giving Back: Volunteer at Zero Plastic Movement, Leo Club, and Rotaract Club <br><br>🛠️  Skills: Python | ML/DL (TensorFlow/Keras) | Data Analysis | Git/GitHub <br><br>🎯 Motto:<br>"Learn, Build, Share."
+👋 Hello World I'm Riznee MF – a passionate Data Science undergraduate at SLTC Research University<br><br>🚀 Exploring: Machine Learning, Deep Learning, & AI-driven real-world solutions <br><br>📚  Learning: TensorFlow, Keras, Advanced ML techniques & Data Science workflows <br><br>🎯 Goal: To become an impactful AI/ML Engineer <br><br>🌍 Giving Back: Volunteer at Zero Plastic Movement, Leo Club, and Rotaract Club <br><br>🛠️  Skills: Python | ML/DL (TensorFlow/Keras) | Data Analysis | Git/GitHub <br><br>🎯 Motto: "Learn, Build, Share."
 
 
 ## 🌐 Socials:
